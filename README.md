@@ -71,3 +71,87 @@ export default defineConfig([
   },
 ])
 ```
+# 🤖 Nova AI Chatbot
+
+A modern AI-powered chatbot built using **React**, **Tailwind CSS**, and **Google Gemini 2.5 Flash**.
+
+Nova AI provides a futuristic conversational experience with a premium dark UI, real-time AI responses, smooth animations, and intelligent chat interactions.
+
+---
+
+# ✨ Features
+
+- 🤖 Google Gemini 2.5 Flash Integration
+- 💬 Real-time AI Chat
+- 🔐 API Key Authentication Flow
+- 💾 Local Storage API Key Support
+- ⚡ Fast & Responsive Interface
+- 🌙 Premium Dark Theme
+- 🎨 Modern Glassmorphism UI
+- 📱 Fully Responsive Design
+- ⏳ AI Loading Animations
+- 🛡️ Error Handling
+- 🧠 Chat History Management
+- ✨ Smooth Animations & Micro Interactions
+
+---
+
+# 🛠️ Tech Stack
+
+- React
+- Tailwind CSS
+- Vite
+- Google Generative AI SDK
+- Framer Motion
+- Lucide React Icons
+
+
+---
+
+# 🎨 UI Highlights
+
+- Minimal futuristic AI interface
+- Smooth transitions & animations
+- Floating chat input
+- Neon glow effects
+- Elegant typography
+- Glassmorphism design
+- Clean reusable components
+
+---
+
+# ⚙️ Functionalities
+
+- Send prompts to Gemini AI
+- Receive AI-generated responses
+- Dynamic chat rendering
+- AI typing/loading state
+- Error handling
+- Persistent API key storage
+
+---
+
+---
+
+# 🔒 Security Note
+
+Do not expose production API keys directly on the frontend.
+
+For production applications:
+- Use backend APIs
+- Store secrets securely
+- Implement authentication
+
+---
+
+# 📌 Future Improvements
+
+- 🎤 Voice Assistant
+- 🖼️ Image Generation
+- 🧠 AI Memory
+- 💾 Chat Export
+- 🌐 Multi-language Support
+- 👤 Authentication System
+- 🎨 Theme Customization
+
+---
